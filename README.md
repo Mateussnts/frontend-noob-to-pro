@@ -1,4 +1,4 @@
-# frontend-noob-to-pro
+# Frontend-noob-to-pro
 
 Repositório especifico voltado para estudos de Frontend
 
